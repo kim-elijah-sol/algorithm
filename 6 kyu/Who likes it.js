@@ -1,6 +1,4 @@
 /**
- * 6 kyu
-
  * 설명
  * You probably know the "like" system from Facebook and other pages. 
  * People can "like" blog posts, pictures or other items. 
